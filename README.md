@@ -1,4 +1,4 @@
-# 🚀 Mastering Jenkins Pipelines: A Comprehensive Guide
+# Mastering Jenkins Pipelines: A Comprehensive Guide
 
 Welcome to the Jenkins Pipeline learning repository! This guide covers everything from basic concepts to writing your first `Jenkinsfile`.
 
@@ -11,7 +11,7 @@ A **Pipeline** is a suite of plugins that supports implementing and integrating 
 
 ---
 
-## 🏗️ Core Components
+##  Core Components
 | Component | Description |
 | :--- | :--- |
 | **Pipeline** | The user-defined model of a CD pipeline. |
@@ -21,7 +21,7 @@ A **Pipeline** is a suite of plugins that supports implementing and integrating 
 
 ---
 
-## 🛠️ Pipeline Syntax Types
+##  Pipeline Syntax Types
 There are two ways to write a Jenkins Pipeline:
 
 ### 1. Declarative Pipeline (Recommended)
@@ -36,7 +36,7 @@ The traditional approach based on Groovy.
 
 ---
 
-## 📝 Example: The "Hello World" Jenkinsfile
+##  Example: The "Hello World" Jenkinsfile
 Save this code in a file named `Jenkinsfile` at the root of your project:
 
 ```groovy
